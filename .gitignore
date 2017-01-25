@@ -1,5 +1,9 @@
 *.class
 
+# BlueJ IDE
+*.ctxt
+package.bluej
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
